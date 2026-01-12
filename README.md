@@ -1,7 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # sankey-builder
 A local web utility to build Sankey diagrams from CSV.
 =======
+=======
+>>>>>>> 0302d58 (Add node-layout CSV import and repo structure)
 # Sankey Builder
 
 Sankey Builder is a local web-based utility for creating, validating, and exporting Sankey diagrams using simple CSV data.
@@ -85,4 +88,7 @@ Sample CSV files are available in the [examples](examples/) folder.
 
 ## License
 MIT
+<<<<<<< HEAD
+>>>>>>> 0302d58 (Add node-layout CSV import and repo structure)
+=======
 >>>>>>> 0302d58 (Add node-layout CSV import and repo structure)

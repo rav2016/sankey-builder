@@ -1,0 +1,5 @@
+source,target,value
+Input,Process A,10
+Input,Process B,5
+Process A,Output,7
+Process B,Output,4

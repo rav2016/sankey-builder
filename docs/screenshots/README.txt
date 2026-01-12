@@ -1,0 +1,1 @@
+Place screenshots here (main.png, fixed-layout.png, validation.png, export.png).
